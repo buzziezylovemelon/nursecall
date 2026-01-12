@@ -1,0 +1,4 @@
+D:\project222\Assignment_project\Assignme.15890298\x64\Debug\Assignment_project.vcxproj.AssemblyReference.cache
+D:\project222\Assignment_project\Assignme.15890298\x64\Debug\Assignmentproject.Form1.resources
+D:\project222\Assignment_project\Assignme.15890298\x64\Debug\Assignmentproject.MyForm333.resources
+D:\project222\Assignment_project\Assignme.15890298\x64\Debug\Assignment_project.vcxproj.GenerateResource.cache
